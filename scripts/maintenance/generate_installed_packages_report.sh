@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Output file
-output_file="installed_packages_report.txt"
+output_file="reports/installed_packages_report.txt"
 
 # Ensure the script can write to the output file
 if ! touch "$output_file" &> /dev/null; then
