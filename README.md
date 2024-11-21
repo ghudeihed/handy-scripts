@@ -19,6 +19,6 @@ A collection of scripts and tools I use for system administration, development, 
 ### Installation
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/utility-scripts.git
+git clone git@github.com:ghudeihed/handy-scripts.git
 cd utility-scripts
 
